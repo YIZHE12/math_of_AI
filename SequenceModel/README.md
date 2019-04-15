@@ -27,6 +27,8 @@ Output gate: decide if a bit need to be rewrite (bit operation) and what informa
 
 ## Credit
 ___
-Source of information:
+Source:
+
 Andrew Ng: deeplearning.ai on coursera
+
 Siraj Raval: The Math of Intelligence on youtube
