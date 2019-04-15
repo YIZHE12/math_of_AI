@@ -11,6 +11,7 @@ Once this probability is learn, the text generator only need to do a random samp
 
 ## What is an RNN?
 One RNN cell is not one neuron with feedback loop linking itself. One RNN cell is a neuron network layer with feedback loop from the previous cell states with the additional weight matrixs. 
+<img src = RNN.png> 
 
 ## What is an LSTM?
 Similarly, a LSTM cell is not one neuron but a whole neural network layers with multiple neurons. Each LSTM cell have several gates:
