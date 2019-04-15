@@ -23,3 +23,10 @@ Forget gate: can think about it as a bit operation (it is a sigmoid activation) 
 Update gate: if one bit doesn't want to forget, then it will be update, also a bit operation (0 or 1). As now there is information needs to be update, we need to build up the new information, with a tanh (-1 to 1).
 
 Output gate: decide if a bit need to be rewrite (bit operation) and what information (tanh) to write
+
+
+## Credit
+___
+Source of information:
+Andrew Ng: deeplearning.ai on coursera
+Siraj Raval: The Math of Intelligence on youtube
